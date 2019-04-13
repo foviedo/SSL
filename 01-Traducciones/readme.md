@@ -1,2 +1,2 @@
-Paso 2: gcc hello2.c -E >hello2.i
+Paso 2: gcc hello2.c -E >hello2.i  
 Generó un archivo .i, por lo visto el #include se convirtió en muchas referencias a las funciones de la biblioteca estándar. Por otro lado, el comentario se convirtió en un espacio
